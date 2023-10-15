@@ -1,4 +1,4 @@
-# BlackJack-Game
+# BlackJack-Game♣️♠️♦️♥️
 
 • Devised an interactive Blackjack game using Python
 • Facilitated deck shuffling using Python’s random library, ensuring game unpredictability
